@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KPN55PfGcxuR8u8e9kAV7d3+jvt1p9VycGAZvs1bMD2Ww4Ug88WEBjEEcMsW15OD0dZQXlyowHMBINhdIThlMw==",
+  "dgSpecHash": "WGVtwcUB1pkkiHd6FcF0LY8yr8aR+/+mVXfoRUbgj8+5Rgcz1XoehJ6K1kQDCtyQbQkBdlVuLb+6DY+SwnuZWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\silve\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\silve\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.15\\microsoft.data.sqlite.core.7.0.15.nupkg.sha512",
