@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MmqZzM7LkxPnuTkJGJw9lHhw9Qggb0PAGyWnO8FXb7BnUITdOjLqcAdKx6fmxFPsQpyUVhsOc+k58RoxvY+L4g==",
+  "dgSpecHash": "0mIb0Q353ANliBfb+WFQUPmp3POG2yAwwlLkzDHE2Werhbpo+NRLeucoYdx+vb/303Wt8k0QAI5pdrvhZAXAxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\silve\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\silve\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.16\\microsoft.aspnetcore.authentication.jwtbearer.7.0.16.nupkg.sha512",
