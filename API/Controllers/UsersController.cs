@@ -6,7 +6,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers;
 
-[Authorize]
+// requires Authorization: Bearer <token> in request
+//[Authorize]
 public class UsersController : BaseApiController
 {
     private readonly DataContext _context;
