@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\api\\API.csproj": {}
+    "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\api\\API.csproj": {
+    "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\api\\API.csproj",
+        "projectPath": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\silve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\api\\obj\\",
+        "outputPath": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\silve\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.26.2, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
