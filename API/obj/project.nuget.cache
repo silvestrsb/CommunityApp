@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XSEVf30f+eOgKtfkPi1u2pH9irhAJm0bwX5TYVC+4FI1U8KMJXxhnC93oMjA4jDHbzyo2ujtF8uKxMIY5x4vLQ==",
+  "dgSpecHash": "Vuv7ZHh0vGDsiPWDs4lErfKflkMTOjBVjMu/2LnIiCZnP8UMn/d3EsaIak/Z668UZjSf1iQdlu/02HJAcIylxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\silve\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\silve\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
