@@ -14,6 +14,8 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int,
     }
     public DbSet<UserLike> Likes { get; set; }
     public DbSet<Message> Messages { get; set; }
+    public DbSet<Group> Groups { get; set; }
+    public DbSet<Connection> Connections { get; set; }
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
@@ -55,5 +57,6 @@ public class DataContext : IdentityDbContext<AppUser, AppRole, int,
             .HasOne(u => u.Sender)
             .WithMany(m => m.MessagesSent)
             .OnDelete(DeleteBehavior.Restrict);
+
     }
 }
