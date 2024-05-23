@@ -1,6 +1,8 @@
 <h1 align="center">Angular & .NET Community App</h1>
 
-
+![demo-1](./github_images/demo-1.png)
+![demo-2](./github_images/demo-1.png)
+![demo-3](./github_images/demo-1.png)
 
 ## Features
 - User registration, login authentication and authorization via JWT Authentication tokens
