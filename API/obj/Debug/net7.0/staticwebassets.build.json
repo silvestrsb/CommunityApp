@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sC7zQ4GKrv/gXTZKpvk+7u+lp/mM+tXITGlT7Bf5Oho=",
+  "Hash": "3K59g7xZQZ7Mfmq7Vb/cbRCEB0meaOca7HHHDYJZDQo=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -170,12 +170,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\api\\wwwroot\\main.dbb2ed648d391f6f.js",
+      "Identity": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\api\\wwwroot\\main.07f5b6a5abaa957b.js",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "main.dbb2ed648d391f6f.js",
+      "RelativePath": "main.07f5b6a5abaa957b.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,7 +184,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\main.dbb2ed648d391f6f.js"
+      "OriginalItemSpec": "wwwroot\\main.07f5b6a5abaa957b.js"
     },
     {
       "Identity": "C:\\Users\\silve\\OneDrive\\Desktop\\.NET Portfolio Project Udemy Neil Cummings\\CommunityApp\\api\\wwwroot\\polyfills.a95b1126cd114971.js",
