@@ -21,3 +21,4 @@
 - SignalR
 - ASP.NET Core Identity
 - Docker
+- Bootstrap (ngx-bootstrap)
