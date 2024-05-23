@@ -5,7 +5,7 @@
 - Angular Reactive Forms
 - Members paging, sorting, filtering, likes
 - Message inbox, outbox
-- Real time messaging via SignalR WebSockets
+- Real time messaging and Online Presence Trackking via SignalR WebSockets
 - Toastr notifications
 - Profile Editing, photo upload
 - Admin role, photo approval management
