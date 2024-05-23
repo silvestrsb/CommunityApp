@@ -2,7 +2,7 @@
 
 ## Features
 - User registration, login authentication and authorization via JWT Authentication tokens
-- Angular Reactive Forms
+- Angular Template and Reactive Forms
 - Members paging, sorting, filtering, likes
 - Message inbox, outbox
 - Real time messaging and Online Presence Trackking via SignalR WebSockets
@@ -16,6 +16,7 @@
 - SqlLite
 - PostgreSQL
 - Entity Framework Core
+- Automapper
 - SignalR
 - ASP.NET Core Identity
 - Docker
