@@ -38,6 +38,7 @@ public class Seed
             user.UserName = user.UserName.ToLower();
             await userManager.CreateAsync(user, "Pa$$w0rd");
             await userManager.AddToRoleAsync(user, "Member");
+            user.Photos.SingleOrDefault().IsApproved = true;
         }
 
         var admin = new AppUser
