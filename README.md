@@ -12,7 +12,7 @@
 - Profile Editing, photo upload
 - Admin role, photo approval management
 
-- ## Used Tech stack/Libraries
+## Used Tech stack/Libraries
 - .NET 7.0
 - Angular 16.2.12
 - SqlLite
